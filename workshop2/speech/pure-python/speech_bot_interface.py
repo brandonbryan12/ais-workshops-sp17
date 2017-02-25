@@ -3,6 +3,7 @@ from transcribe import transcribe_file
 import os
 import sys
 import subprocess
+import neural_net as nn
 
 def getTextFromSpeech(filePath):
     text = subprocess.check_output([sys.executable, "transcribe.py", filePath])
@@ -18,7 +19,9 @@ def speakResponse(response):
     os.system("start resources/bot_output.wav")
 
 if __name__ == '__main__':
+    nn.train()
     filename = sys.argv[1]
     request = getTextFromSpeech(filename)
+    responseText = nn.response(request)
     response = runBot(request)
     speakResponse(response)

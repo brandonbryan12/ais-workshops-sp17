@@ -1,0 +1,21 @@
+Are we expecting rain tomorrow?
+Are we expecting rain this week?
+Are they predicting rain today?
+Are they predicting rain this week?
+Is it supposed to be hot tomorrow?
+Is it supposed to rain tomorrow?
+What's the temperature?
+What's the temperature right now?
+Rain schedule.
+Weather report.
+Give me the weather.
+Tell me the weather.
+Tell me the forecast.
+What's the forecast?
+What's in the forecast?
+What's in the forecast this week?
+What's the chance of rain today?
+Is it raining in my area?
+Is the weather nice?
+Is the weather nasty?
+

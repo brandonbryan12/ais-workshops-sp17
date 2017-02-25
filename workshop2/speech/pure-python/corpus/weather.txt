@@ -1,0 +1,13 @@
+What is the weather today?
+What is the weather tomorrow?
+What's the temperature today?
+Is it cold outside?
+Is it hot outside?
+Is it going to rain today?
+Is it going to rain tomorrow?
+What's it like out side?
+What's it like out there?
+Is it sunny?
+Is it sunny right now?
+Is it cloudy?
+Is it raining tomorrow?
